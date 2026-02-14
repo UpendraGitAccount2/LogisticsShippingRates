@@ -1,3 +1,6 @@
 <HEAD> TEST </HEAD>
 <TITLE>NEW </TITLE>
-<BODY>aaaa</BODY>
+<BODY>
+<para>aaaa</para>
+<para>bbbb</para>
+</BODY>
